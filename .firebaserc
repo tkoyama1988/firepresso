@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "firepresso"
+    "default": "firepresso-d0747",
+    "firepresso": "firepresso-d0747"
   }
 }

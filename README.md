@@ -17,3 +17,13 @@ This is an attempt to create a modern content management system, which makes it 
 11. Run "npm run build"
 12. Run "firebase deploy"
 
+# Add (tkoyama1988)
+
+1. firebase login
+2. firebase init
+
+## local
+
+3. yarn run build
+4. yarn global add serve
+5. serve -s build
